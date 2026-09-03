@@ -1,0 +1,6 @@
+{
+  "name": "Fary Merk",
+  "description": "Portal multiecosistema Fary Merk: Recopilación de servicios que integra la tienda oficial de snacks deshidratados 100% naturales para perros y el centro de mentorías profesionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
